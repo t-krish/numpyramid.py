@@ -13,5 +13,3 @@ for i in range(1, x) :
         st1 = str(st1) + ' ' + str(s)
     print(y, st1, y)
     y = ' ' * (x-i)
-
-#complete
